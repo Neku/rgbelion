@@ -1,0 +1,3 @@
+# Logfile created on 2014-01-25 10:58:37 +0100 by logger.rb/44203
+I, [2014-01-25T10:58:37.973592 #2026]  INFO -- : 0:  rake (10.1.1) from /Users/Simone/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/rake-10.1.1.gemspec
+I, [2014-01-25T10:58:37.974160 #2026]  INFO -- : 0:  bundler (1.5.1) from /Users/Simone/.rbenv/versions/2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
