@@ -1,7 +1,7 @@
 class GameController < UIViewController
   extend IB
 
-  def viewDidLoad
+  def viewWillLayoutSubviews
     super
     sk_view = self.view
     sk_view.showsFPS = true
